@@ -1,11 +1,16 @@
 ## Olá, eu sou Higo Ribeiro, desenvolvedor Front-end!  💻
 
+</br>
+
+### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=higoribeiro0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## 🏆GitHub Trophies
+### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=higoribeiro0&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <div style="display: inline_block"><br>
+  
+  ##
   
   <img align="center" alt="Higo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Higo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,6 +26,7 @@
 </div>
   
   ##
+  
  
 <div> 
   <a href="https://www.instagram.com/higo.ribeiro.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

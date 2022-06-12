@@ -1,11 +1,12 @@
 ## Olá, eu sou Higo Ribeiro, desenvolvedor Front-end!  💻
 
-<div align="center">
-  <a href="https://github.com/higoribeiro0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higoribeiro0&show_icons=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&layout=compact"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=higoribeiro0&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=higoribeiro0&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Higo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Higo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Higo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

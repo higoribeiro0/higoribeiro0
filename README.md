@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%"/>
 </div> 
 
-## <div align="center">Olá, eu sou Higo Ribeiro, desenvolvedor Front-end! 👨‍💻 Curso Sistemas de Infomação 💻</div>  
+## <div align="center">Olá, eu sou Higo Ribeiro, desenvolvedor Front-end! 👨‍💻</br> Curso Sistemas de Infomação 💻</div></br> 
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

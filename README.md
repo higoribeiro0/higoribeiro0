@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/higoribeiro0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higoribeiro0&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=higoribeiro0&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Higo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

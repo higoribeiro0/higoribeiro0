@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>
 
-## <div align="center">Olá, eu sou Higo Ribeiro  👨‍💻 </br> Desenvolvedor Full Stack JavaScript</br> Cursando Sistemas de Infomação 💻</div></br> 
+## <div align="center">Olá, eu sou Higo Ribeiro  👨‍💻 </br> Desenvolvedor Full Stack</br> Cursando Sistemas de Infomação 💻</div></br> 
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

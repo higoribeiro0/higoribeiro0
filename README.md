@@ -3,11 +3,6 @@
 </div>
 
 ## <div align="center">Olá, eu sou Higo Ribeiro  👨‍💻 </br> Desenvolvedor Full Stack Jr </br> Cursando Sistemas de Infomação 💻</div></br> 
-
-### 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  ![GitHub metrics](https://metrics.lecoq.io/higoribeiro0)
   
   ##
 

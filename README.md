@@ -2,9 +2,14 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>
 
-## <div align="center">Olá, eu sou Higo Ribeiro  👨‍💻 </br> Desenvolvedor Full Stack Jr </br> Cursando Sistemas de Infomação 💻</div></br> 
+## <div align="center">Olá, eu sou Higo Ribeiro 👨‍💻 </br> Desenvolvedor Full Stack Jr </br> Cursando Sistemas de Infomação 💻</div></br> 
   
-  ##
+  
+<div>
+<a href="https://github.com/higoribeiro0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higoribeiro0&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=higoribeiro0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=higoribeiro0&theme=radical&no-frame=true&no-bg=true&margin-w=4)

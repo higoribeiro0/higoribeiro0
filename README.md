@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
 </div>
 
-## <div align="center">Olá, eu sou Higo Ribeiro 👨‍💻 </br> Desenvolvedor Full Stack Jr </br> Cursando Sistemas de Infomação 💻</div></br> 
+## <div align="center">Olá, eu sou Higo Ribeiro 👨‍💻 </br> Desenvolvedor Full Stack</br> Cursando Sistemas de Infomação 💻</div></br> 
   
   
 <div>

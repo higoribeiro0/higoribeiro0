@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"/>
+<img src="https://steemitimages.com/DQmbaedeTrFuED61jDHAqmZRv2VeX3tWA6pyBi4zoR5T26o/helloworld.gif" align="center" style="width: 100%"/>
 </div>
 
 ## <div align="center">Olá, eu sou Higo Ribeiro 👨‍💻 </br> Desenvolvedor Full Stack</br> Cursando Sistemas de Infomação 💻</div></br> 
